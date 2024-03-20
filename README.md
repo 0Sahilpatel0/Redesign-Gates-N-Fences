@@ -1,70 +1,44 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About The Project
 
-## Available Scripts
+The Gate N Fences Website is used to sell home entry gates and Fences but because of the poor UI of the website, users shifted to other websites 
 
-In the project directory, you can run:
 
-### `npm start`
+## Major UI Problems
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. The bulk of data shown on the main screen
+2. Unnecessary animations used
+3. Didn't use familiar icons
+4. The layout of the website is difficult to understand
+5. Poor color combination
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Purpose Of Redesigning
 
-### `npm run build`
+The purpose of redesigning the Gates N Fences website is to
+improve user experience so that users do not visit other websites
+due to poor UI.
+Give them a familiar experience when they used another shopping
+website so they don't get confused while using the website with the
+help of that the website usage also gets increased and it is
+beneficial for both customers as well as the website owner.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Stakeholders
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/c359b85f-aaa9-4c20-b751-871ad6907ba5)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Screenshot
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Design and Prototype_Gates-N-Fences](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/c10e3fae-c1e0-42d8-9737-66f7a17ef7c1)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![4](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/31e96d0f-f955-4de2-859e-18d27bbee6ad)
+![5](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/d5cc8e78-88e0-4696-a915-9a65aad7e40c)
+![6](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/d67590a4-33b9-4728-b24a-4e142279396d)
+![7](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/0166cab8-e7af-4b9a-a0f5-1d9dc06cd0b6)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![8](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/28c1d2fc-8428-416d-bc6d-aa564a695fff)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![9](https://github.com/0Sahilpatel0/Redesign-Gates-N-Fences/assets/106150144/6b46999f-3454-42dc-86b0-8e14d462fb5a)
